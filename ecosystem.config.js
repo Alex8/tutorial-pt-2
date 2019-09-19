@@ -6,7 +6,7 @@ module.exports = {
   deploy: {
     production: {
       user: 'ubuntu',
-      host: 'alex8.mooo.com',
+      host: 'localhost',
       key: '~/.ssh/id_rsa-git-field',
       ref: 'origin/master',
       repo: 'git@github.com:Alex8/tutorial-pt-2.git',
