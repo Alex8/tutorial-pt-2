@@ -18,5 +18,8 @@
   "homepage": "https://github.com/Alex8/tutorial-pt-2#readme",
   "dependencies": {
     "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "pm2": "^3.5.1"
   }
 }
